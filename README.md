@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Akash Verma
 
-🎯 A passionate **React.js Developer** with over **3 years of experience** building performant, scalable, and user-friendly web applications.
+🎯 A passionate **Fullstack Developer** with over **3 years of experience** building performant, scalable, and user-friendly web applications.
 
 💻 Currently working at **Infobeans** as a Software Engineer, where I lead cutting-edge frontend development, including **TypeScript migration**, **Generative AI-powered systems**, and **state-of-the-art UX design**.
 
