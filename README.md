@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Akash Verma  
-### 🚀 Full-Stack Engineer | Frontend Specialist | Generative AI & Agentic Systems Builder
+###  Full-Stack Engineer | Frontend Specialist | Generative AI & Agentic Systems Builder
 
 I’m a **Full-Stack Software Engineer with 4+ years of experience** building **scalable, high-performance web applications** and **AI-powered systems** using **JavaScript, TypeScript, and Python**.
 
@@ -60,10 +60,10 @@ I enjoy transforming **complex business problems into clean, scalable, and intel
 ---
 
 ## 📈 Impact & Results
-- 🚀 Improved application performance by **40%**
-- 🧹 Increased code quality & maintainability by **35%**
-- 📦 Delivered enterprise-grade applications on **Azure & AWS**
-- 🤝 Collaborated cross-functionally in Agile/Scrum teams
+-  Improved application performance by **40%**
+-  Increased code quality & maintainability by **35%**
+-  Delivered enterprise-grade applications on **Azure & AWS**
+-  Collaborated cross-functionally in Agile/Scrum teams
 
 ---
 
@@ -108,8 +108,8 @@ Azure · AWS · Docker · GitHub Actions · Jenkins · CI/CD
 ---
 
 ## 📜 Certifications & Achievements
-- 🏅 Microsoft – Introduction to Python (91%)
-- 🧠 Google Kickstart & HashCode Participant
+-  Microsoft – Introduction to Python (91%)
+-  Google Kickstart & HashCode Participant
 
 ---
 
