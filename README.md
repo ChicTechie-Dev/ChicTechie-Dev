@@ -48,8 +48,6 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-### 🌐 Connect With Me
-
 <p align="center">
 <a href="https://akash-verma-portfolio-dev-ogl9.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Live_Site-667eea?style=for-the-badge&logoColor=white" alt="Portfolio"/>
@@ -72,7 +70,7 @@
 
 ---
 
-### 💼 Technology Stack & Expertise
+### Technology Stack & Expertise
 
 <table align="center">
 <tr>
@@ -105,7 +103,7 @@
 
 ---
 
-## 🎯 Professional Profile
+## Professional Profile
 
 ```typescript
 const akashVerma = {
@@ -143,11 +141,11 @@ const akashVerma = {
     },
     
     deliverables: [
-        "✅ Enterprise-grade web applications",
-        "✅ AI-powered intelligent systems",
-        "✅ Cloud-native scalable solutions",
-        "✅ End-to-end feature development",
-        "✅ Technical leadership & mentoring"
+        " Enterprise-grade web applications",
+        " AI-powered intelligent systems",
+        " Cloud-native scalable solutions",
+        " End-to-end feature development",
+        " Technical leadership & mentoring"
     ],
     
     principles: {
@@ -158,6 +156,6 @@ const akashVerma = {
     },
     
     currentObjective: "Delivering innovative solutions that drive business value",
-    motto: "Engineer excellence. Architect the future. 🚀"
+    motto: "Engineer excellence. Architect the future."
 };
 ```
