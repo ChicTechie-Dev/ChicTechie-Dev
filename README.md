@@ -36,7 +36,7 @@
 <td align="center" width="33%">
   <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60" alt="Cloud"/>
   <br/><b>Cloud Architecture</b>
-  <br/><sub>Azure & AWS Certified</sub>
+  <br/><sub>Azure & AWS Expertise</sub>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@ const akashVerma = {
         },
         cloud_devops: {
             platforms: ["Microsoft Azure", "AWS"],
-            tools: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
+            tools: ["Docker", "Jenkins", "GitHub Actions"],
             practices: ["CI/CD", "Infrastructure as Code", "Monitoring"]
         },
         databases: {
