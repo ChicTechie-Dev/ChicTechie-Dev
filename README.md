@@ -125,8 +125,3 @@ Azure · AWS · Docker · GitHub Actions · Jenkins · CI/CD
 - Challenging projects with real business impact  
 
 > *I build scalable systems, intelligent agents, and user experiences that matter.*
-
----
-
-🔍 *Open to opportunities that challenge me and help me grow as a developer. Let's connect and create impactful software together!*
-
